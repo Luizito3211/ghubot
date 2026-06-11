@@ -1,0 +1,5 @@
+.env
+node_modules/
+json.sqlite
+*.sqlite
+*.sqlite-journal
